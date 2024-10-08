@@ -3,7 +3,9 @@ This is the official implementation of the paper "DI-MaskDINO: A Joint Object De
 
 Authors: Zhixiong Nan, Xianghong Li, Tao Xiang, Jifeng Dai
 
-![](figures/framework.png)
+<div align="center">
+  <img src="figures/framework.png"/>
+</div><br/>
 
 <details>
   <summary><b>News</b></summary>
@@ -13,4 +15,15 @@ Authors: Zhixiong Nan, Xianghong Li, Tao Xiang, Jifeng Dai
   [2024/9] DI-MaskDINO has been accepted at NeurIPS 2024 as a poster!
 
 </details>
+
+## Table of Contents
+- [Installation](#installation)
+- [Pretrained Models](#pretrained-models)
+- [Run](#run)
+  - [Training](#training)
+  - [Evaluation](#evaluation)
+- [Citation](#citing-rank-detr)
+
+## Installation
+Please refer to the [installation document](https://detrex.readthedocs.io/en/latest/tutorials/Installation.html) of detrex.
 
