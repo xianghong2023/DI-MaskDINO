@@ -3,7 +3,7 @@ This is the official implementation of the paper "DI-MaskDINO: A Joint Object De
 
 Authors: Zhixiong Nan, Xianghong Li, Tao Xiang, Jifeng Dai
 
-
+![](figures/framework.png)
 
 <details>
   <summary><b>News</b></summary>
