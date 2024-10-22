@@ -7,9 +7,8 @@ Authors: Zhixiong Nan, Xianghong Li, Tao Xiang, Jifeng Dai
   <img src="figures/framework.png"/>
 </div><br/>
 
-<details>
-  <summary><b>News</b></summary>
+## Update
+The code for DI-MaskSINO will be released here.
 
-  [2024/9] DI-MaskDINO has been accepted at NeurIPS 2024 as a poster!
+[2024/9] DI-MaskDINO has been accepted at NeurIPS 2024 as a poster!
 
-</details>
